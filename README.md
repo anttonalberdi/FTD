@@ -10,3 +10,4 @@ The metric is calculated by:
 
 3. Iteratively computing standard diversity metrics across bootstrap replicates to produce a distribution of diversity estimates that reflect uncertainty.
 
+The final output is not a single diversity value, but a range (e.g., mean ± CI), offering a more robust and realistic summary of diversity in datasets with taxonomic ambiguity—common in metabarcoding, environmental DNA, and dietary analysis.
