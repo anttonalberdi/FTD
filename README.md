@@ -8,5 +8,5 @@ The metric is calculated by:
 
 2. Modeling taxonomic ambiguity through a bootstrapping approach, where reads with unresolved assignments are randomly redistributed across plausible lower-level taxa based on available data.
 
-3. Iteratively computing standard diversity metrics (e.g., Shannon entropy, Hill numbers) across bootstrap replicates to produce a distribution of diversity estimates that reflect uncertainty.
+3. Iteratively computing standard diversity metrics across bootstrap replicates to produce a distribution of diversity estimates that reflect uncertainty.
 
